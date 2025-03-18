@@ -1,0 +1,11 @@
+
+
+
+TypeScriptda any turi nima?
+
+TypeScriptda any — bu o‘zgaruvchiga har qanday turdagi qiymatni qabul qilishga imkon beruvchi maxsus tur. Agar o‘zgaruvchi any sifatida belgilansa, 
+TypeScript uning turini tekshirmaydi va unga istalgan turdagi qiymat berish mumkin.
+
+
+JavaScript kodiga TypeScript joriy qilinayotgan bo‘lsa va barcha o‘zgaruvchilarning
+ turini darhol aniqlash imkoni bo‘lmasa, vaqtincha any ishlatilishi mumkin.
